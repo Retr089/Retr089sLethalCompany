@@ -3,6 +3,8 @@ Welcome to my Lethal Company modpack! It has a little bit of everything that I b
 
 # Changelog
 
+## Version 1.2.0
+- Major fix, minor update. Forgot to include config files. (For those missing certain keys)
 ## Version 1.1.2
 - Minor fix
 ## Version 1.1.1
