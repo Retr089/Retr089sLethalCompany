@@ -9,7 +9,7 @@ Welcome to my Lethal Company modpack! It has a little bit of everything that I b
 - Removed tinyhoot-ShipLoot and replaced with PopleZoo-BetterItemScan
 - Added Hexnet111-SuitSaver
 ## Version 1.0.2
-- Added config for TooManyEmotes: Changed keybind to '\'
+- Added config for TooManyEmotes: Changed keybind to '\\\'
 ## Version 1.0.1
 - Added config for ItemSlotCore: Changed keybind to 'Z'
 ## Version 1.0.0
