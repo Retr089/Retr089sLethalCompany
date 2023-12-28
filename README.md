@@ -3,6 +3,8 @@ Welcome to my Lethal Company modpack! It has a little bit of everything that I b
 
 # Changelog
 
+## Version 1.1.1
+- Added github link
 ## Version 1.1.0
 - Removed tinyhoot-ShipLoot and replaced with PopleZoo-BetterItemScan
 - Added Hexnet111-SuitSaver
