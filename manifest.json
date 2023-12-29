@@ -1,6 +1,6 @@
 {
     "name": "Retr089s_Lethal_Company",
-    "version_number": "1.3.0",
+    "version_number": "1.4.0",
     "website_url": "https://github.com/Retr089/Retr089sLethalCompany",
     "description": "This is the modpack I made for my friends and I.",
     "dependencies": [
@@ -64,6 +64,7 @@
 	"FoxGod-ThiccCompanyModelReplacement-1.0.0",
 	"Vibrant-BadGojoSuit-1.0.2",
 	"quackandcheese-MirrorDecor-1.2.0",
-	"EliteMasterEric-CleanerLogs-1.0.0"
+	"EliteMasterEric-CleanerLogs-1.0.0",
+	"OrtonLongGaming-FNaFEndoCoilhead-1.0.1"
     ]
 }
