@@ -3,6 +3,8 @@ Welcome to my Lethal Company modpack! It has a little bit of everything that I b
 
 # Changelog
 
+## Version 1.4.1
+- Quick patch: removed quackandcheese-MirrorDecor that caused duplicate player to be seen while emoting
 ## Version 1.4.0
 - Added one mod: OrtonLongGaming-FNaFEndoCoilhead
 ## Version 1.3.0
