@@ -1,6 +1,6 @@
 {
     "name": "Retr089s_Lethal_Company",
-    "version_number": "1.4.1",
+    "version_number": "2.0.0",
     "website_url": "https://github.com/Retr089/Retr089sLethalCompany",
     "description": "This is the modpack I made for my friends and I.",
     "dependencies": [
@@ -40,7 +40,6 @@
 	"Evaisa-LethalLib-0.9.0",
 	"Evaisa-LethalThings-0.8.8",
 	"2018-LC_API-3.1.0",
-	"OrtonLongGaming-FreddyBracken-1.0.6",
 	"PopleZoo-BetterItemScan-2.1.6",
 	"Pooble-LCBetterSaves-1.6.1",
 	"amnsoft-EmployeeAssignments-1.0.8",
@@ -50,11 +49,7 @@
 	"matsuura-HealthMetrics-1.0.2",
 	"ManiaBania-1000_Quota_Stare-1.0.0",
 	"alexanderjoe-BiggeryBattery-1.0.2",
-	"yeahimliam-Peter_Griffin_Suit-1.0.1",
 	"PanHouse-LethalClunk-1.1.1",
-	"femboytv-LethalPaintings-1.2.0",
-	"femboytv-LethalPosters-1.2.0",
-	"femboytv-FemboysAndFirearms-1.2.1",
 	"Ryokune-CompatibilityChecker-1.1.6",
 	"FutureSavior-Hold_Scan_Button-1.1.1",
 	"TeamClark-ShirtlessSuit-1.0.0",
@@ -62,8 +57,6 @@
 	"OE_Tweaks-Possessed_Masks-1.1.2",
 	"BunyaPineTree-ModelReplacementAPI-2.1.0",
 	"FoxGod-ThiccCompanyModelReplacement-1.0.0",
-	"Vibrant-BadGojoSuit-1.0.2",
 	"EliteMasterEric-CleanerLogs-1.0.0",
-	"OrtonLongGaming-FNaFEndoCoilhead-1.0.1"
     ]
 }
