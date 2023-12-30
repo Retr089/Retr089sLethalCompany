@@ -3,6 +3,11 @@ Welcome to my Lethal Company modpack! It has a little bit of everything that I b
 
 # Changelog
 
+## Version 2.0.0, the Rapture
+Many mods have been removed either to declutter or to try to make it a smoother experience. Here are the following changes:
+- Removed mods: BadGojoSuit, FemboysAndFirearms, LethalPosters, LethalPaintings, PeterGriffinSuit, FreddyBracken, PushCompany, and FNaFEndoCoilhead
+- Tweaks: changing CleanerLogs to log level Warning, Everyone gets an EmployeeAssignment, and TooManyEmotes is now 'Q' since it seemed a bit far.
+## I HIGHLY recommend you create a new profile and add this modpack to it. Thunderstore does not have a way to remove mods that have been removed from a dependency list. Thank you. Also thank you for all the downloads :D
 ## Version 1.4.1
 - Quick patch: removed quackandcheese-MirrorDecor that caused duplicate player to be seen while emoting
 ## Version 1.4.0
