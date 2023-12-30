@@ -3,6 +3,9 @@ Welcome to my Lethal Company modpack! It has a little bit of everything that I b
 
 # Changelog
 
+## Version 2.1.0
+- Added one mod: HomelessGinger-MaskedEnemyOverhaul
+- Tweaks: Adjusted Skinwalker config
 ## Version 2.0.0, the Rapture
 Many mods have been removed either to declutter or to try to make it a smoother experience. Here are the following changes:
 - Removed mods: BadGojoSuit, FemboysAndFirearms, LethalPosters, LethalPaintings, PeterGriffinSuit, FreddyBracken, PushCompany, and FNaFEndoCoilhead
