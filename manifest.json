@@ -1,6 +1,6 @@
 {
     "name": "Retr089s_Lethal_Company",
-    "version_number": "2.0.0",
+    "version_number": "2.1.0",
     "website_url": "https://github.com/Retr089/Retr089sLethalCompany",
     "description": "This is the modpack I made for my friends and I.",
     "dependencies": [
@@ -57,6 +57,7 @@
 	"OE_Tweaks-Possessed_Masks-1.1.2",
 	"BunyaPineTree-ModelReplacementAPI-2.1.0",
 	"FoxGod-ThiccCompanyModelReplacement-1.0.0",
-	"EliteMasterEric-CleanerLogs-1.0.0"
+	"EliteMasterEric-CleanerLogs-1.0.0",
+	"HomelessGinger-MaskedEnemyOverhaul-2.1.0"
     ]
 }
