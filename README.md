@@ -3,6 +3,9 @@ Welcome to my Lethal Company modpack! It has a little bit of everything that I b
 
 # Changelog
 
+## Version 2.2.0
+- Added two mods: kuba6000-LC_Masked_Fix and F4ilS4fe-MaskTheDead
+- Tweaks: Modified MaskTheDead config (50% chance)
 ## Version 2.1.0
 - Added one mod: HomelessGinger-MaskedEnemyOverhaul
 - Tweaks: Added adjusted Skinwalker config
