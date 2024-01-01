@@ -3,6 +3,8 @@ Welcome to my Lethal Company modpack! It has a little bit of everything that I b
 
 # Changelog
 
+## Version 2.5.0
+- Actually removing PushCompany
 ## Version 2.4.0
 - Added one mod: IntegrityChaos-Diversity
 ## Version 2.3.0
