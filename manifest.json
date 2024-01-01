@@ -1,6 +1,6 @@
 {
     "name": "Retr089s_Lethal_Company",
-    "version_number": "2.3.0",
+    "version_number": "2.4.0",
     "website_url": "https://github.com/Retr089/Retr089sLethalCompany",
     "description": "This is the modpack I made for my friends and I.",
     "dependencies": [
@@ -61,6 +61,7 @@
 	"HomelessGinger-MaskedEnemyOverhaul-2.1.0",
 	"kuba6000-LC_Masked_Fix-0.0.1",
 	"F4ilS4fe-MaskTheDead-1.0.4",
-	"Jordo-NeedyCats-1.0.2"
+	"Jordo-NeedyCats-1.0.2",
+	"IntegrityChaos-Diversity-1.1.4"
     ]
 }
