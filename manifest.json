@@ -1,6 +1,6 @@
 {
     "name": "Retr089s_Lethal_Company",
-    "version_number": "2.4.0",
+    "version_number": "2.5.0",
     "website_url": "https://github.com/Retr089/Retr089sLethalCompany",
     "description": "This is the modpack I made for my friends and I.",
     "dependencies": [
@@ -30,7 +30,6 @@
 	"MassiveNewCoilers-FixCentipedeLag-2023.12.7",
 	"BlueAmulet-LogNeuter-1.0.2",
 	"Sv_Matt-HideModList-1.0.1",
-	"Midge-PushCompany-1.2.0",
 	"tinyhoot-ShipLobby-1.0.2",
 	"Drakorle-MoreItems-1.0.1",
 	"Hexnet111-SuitSaver-1.1.2",
