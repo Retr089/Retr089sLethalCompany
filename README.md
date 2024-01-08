@@ -6,6 +6,7 @@ Welcome to my Lethal Company modpack! It has a little bit of everything that I b
 ## Version 3.0.0
 - Adding multiple mods: IntroTweaks, EladsHUD, SCPFoundationDungeon, Orion, Lategame_Upgrades, Helmet_Cameras, LateCompany, LootableMusicTapes, and OuijaBoard
 - Removing two mods: HealthMetrics and ShipLobby
+## Multiple mods have been removed and replaced so make sure to make a new profile to get rid of the removed mods. (Thunderstore doesnt automatically remove the mods)
 ## Version 2.5.0
 - Actually removing PushCompany (either remove mod or create new profile :) )
 - Tweaks: Setting TooManyEmotes to 'V' due to conflict with 'Q' on items
